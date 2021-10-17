@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/7a56a983-f527-4c6f-976d-34c5d0bc2da9.svg)](https://wakatime.com/@7a56a983-f527-4c6f-976d-34c5d0bc2da9)
 
-- I’m currently working on Drupal 7 for www.aus.edu & openday.aus.edu and preparing to migrate Drupal 8
+- I’m currently working on Drupal 7 for www.aus.edu & [openday.aus.edu](https://openday.aus.edu and preparing) to migrate Drupal 8
 - Learning Unity3d
 - Working on my personal website...
